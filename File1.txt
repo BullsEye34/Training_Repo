@@ -1,3 +1,9 @@
 HI i am siddharth.
+<<<<<<< HEAD
 hi i am shivang
 this is harshitha
+=======
+hi i am shivang XD
+hey this is jessy
+OH YAS, I FINALLY DID IT.(I GUESS)
+>>>>>>> 055aa822cf89a025a6bb3ebb3f72a96cf9a2f3f3
