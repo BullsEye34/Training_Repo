@@ -9,5 +9,6 @@ branch
 checkout
 clone
 pull
+fetch
 
 Congratulations
