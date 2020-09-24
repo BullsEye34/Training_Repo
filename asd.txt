@@ -1,0 +1,4 @@
+@echo off
+:wq
+echo %random%
+goto wq
