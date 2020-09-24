@@ -1,6 +1,16 @@
 HI i am siddharth.
+<<<<<<< HEAD
 hi i am shivang
 hey this is jessy_j.
 hi i am shivang XD
 hey this is jessy
 OH YAS, I FINALLY DID IT.(I GUESS)
+=======
+<<<<<<< HEAD
+hi i am shivang
+this is harshitha
+=======
+hi i am shivang XD
+hey this is jessy
+OH YAS, I FINALLY DID IT.(I GUESS)
+succeeded through VS [jessy]
