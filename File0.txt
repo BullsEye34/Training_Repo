@@ -7,3 +7,4 @@ status
 log
 branch
 checkout
+clone
