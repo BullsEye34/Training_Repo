@@ -8,3 +8,4 @@ log
 branch
 checkout
 clone
+pull
